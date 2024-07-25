@@ -19,3 +19,7 @@ git commit -m "fist commit"
 git remote add origin https://github.com/DeepLil/learn_dvc.git
 git branch -M main
 git push origin main
+
+update params.yaml
+
+create get_data.py in src folder 
