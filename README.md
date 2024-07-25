@@ -13,3 +13,5 @@ create a data_given folder and paste data inside the folder
 #git init 
 #dvc init
 #dvc add data_given/wine_quality.csv
+#git add .
+#git commit -m "fist commit"
