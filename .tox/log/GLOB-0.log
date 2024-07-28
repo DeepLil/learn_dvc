@@ -1,6 +1,6 @@
 action: GLOB, msg: packaging
 cwd: D:\JulyML\wineQuality
-cmd: 'C:\ProgramData\Anaconda3\envs\wafer3\python.exe' setup.py sdist --formats=zip --dist-dir 'D:\JulyML\wineQuality\.tox\dist'
+cmd: 'C:\ProgramData\Anaconda3\envs\wafer3\python.exe' setup.py sdist --formats=zip --dist-dir '.tox\dist'
 running sdist
 running egg_info
 writing src.egg-info\PKG-INFO
@@ -25,8 +25,7 @@ copying src.egg-info\SOURCES.txt -> src-0.0.1\src.egg-info
 copying src.egg-info\dependency_links.txt -> src-0.0.1\src.egg-info
 copying src.egg-info\top_level.txt -> src-0.0.1\src.egg-info
 Writing src-0.0.1\setup.cfg
-creating D:\JulyML\wineQuality\.tox\dist
-creating 'D:\JulyML\wineQuality\.tox\dist\src-0.0.1.zip' and adding 'src-0.0.1' to it
+creating '.tox\dist\src-0.0.1.zip' and adding 'src-0.0.1' to it
 adding 'src-0.0.1'
 adding 'src-0.0.1\src'
 adding 'src-0.0.1\src.egg-info'
